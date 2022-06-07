@@ -1,0 +1,64 @@
+body{
+    background-color: #252525;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+ .pai{
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.main{
+background-color: white;
+width: 30%;
+height: 70%;
+border-radius: 13px;
+}
+.main, div>img{
+
+    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 30px;
+    
+
+}
+form,.bem-vindo{
+    
+    display: block;
+   
+}
+.bem-vindo h1{
+    text-align: left;
+    font-size: 1.5em;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 250px;
+    height: 26px;
+    border: #252525 2px solid;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+button{
+ background-color: #252525;
+ color: white;
+ text-align: center;
+ width: 15rem;
+ height: 2em;
+ margin-top: 60px;
+ margin-left: 9px;
+ border-radius: 3px;
+}
+/* FIM DA PAGINA DE LOGIN */
+
+/* INICIO ESTILO SEGUNDA TELA */
